@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🎓 I recently finished my BSc in Biomedical Engineering
+- 📅 and will continue to study at the TU Wien as a Master in Medical Informatics
+- 🌱 I’m currently learning AndroidStudio and Kotlin in my free time
+- 💼📊 I'm looking for a Job as a Mobile Developer parallel to my studies
+
 <!--
 **NicolasKargruber/nicolaskargruber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
