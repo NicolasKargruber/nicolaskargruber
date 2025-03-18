@@ -5,6 +5,7 @@
 - 👾 I have got knowledge in AndroidStudio + Kotlin.
 - 🐦 I have got knowledge in Flutter + Dart.
 - 🐦‍🔥 I'm currently learning Xcode + SwiftUI.
+- 🧼 I'm also self taught UX/UI Designer.
 - 💼📊 I'm looking for a Job as a Mobile Developer parallel to my studies.
 
 <!--
