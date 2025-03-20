@@ -6,7 +6,7 @@
 - 🐦 I have got knowledge in Flutter + Dart.
 - 🐦‍🔥 I'm currently learning Xcode + SwiftUI.
 - 🧼 I'm also a self taught UX/UI Designer.
-- 💼📊 I'm looking for a Job as a Mobile Developer parallel to my studies.
+- 💼 I'm looking for a Job as a Mobile Developer parallel to my studies.
 
 <!--
 **NicolasKargruber/nicolaskargruber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
