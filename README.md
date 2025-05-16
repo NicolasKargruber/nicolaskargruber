@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🎓 I recently finished my BSc in Biomedical Engineering
-- 📅 and continuing to study Master in Medical Computer Science at the TU Wien.
-- 👾 I have got knowledge in AndroidStudio + Kotlin.
-- 🐦 I have got knowledge in Flutter + Dart.
+- 📅 and continue to study a Master in Medical Informatics at the TU Wien.
+- 👾 I know AndroidStudio + Kotlin.
+- 🐦 I know Flutter + Dart.
 - 🐦‍🔥 I'm currently learning Xcode + SwiftUI.
-- 🧼 I'm also a self taught UX/UI Designer.
-- 💼 I'm looking for a Job as a Mobile Developer parallel to my studies.
+- 🧼 I'm a self taught UX/UI Designer.
+- 💼 I'm looking for a Job as a Mobile Developer.
 
 <!--
 **NicolasKargruber/nicolaskargruber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
