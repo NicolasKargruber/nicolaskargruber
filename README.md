@@ -28,7 +28,7 @@
 <b> 📫 How to reach me </b>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-kargruber-78a34123b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nicolas.kargruber.devl@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nicolas.kargruber.dev@gmail.com)
 <br>
 
 <b> ☕ Support me </b>
