@@ -1,13 +1,13 @@
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hi there</h1>
-  <b>Mobile Developer  | MSc Computer Science | BSc Biomedical Engineering</b>
+  <b>Mobile Developer  | Computer Science | BSc Biomedical Engineering</b>
 </div>
 <br>
 
 <b> 👨🏻‍💻 About Me </b>
 
 - 🎓 I recently finished my BSc in Biomedical Engineering
-- 📅 and continue to study a Master in Medical Informatics at the TU Wien.
+- 📅 I am a Student at the TU Wien in MSc Medical Informatics
 - 👾 I know AndroidStudio + Kotlin.
 - 🐦 I know Flutter + Dart.
 - 🐦‍🔥 I know Xcode + SwiftUI.
