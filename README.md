@@ -7,12 +7,12 @@
 <b> 👨🏻‍💻 About Me </b>
 
 - 🎓 I recently finished my BSc in Biomedical Engineering
-- 📅 I am a Student at the TU Wien in MSc Medical Informatics
+- 📅 I am a Student at the TU Wien in BSc Computer Science
 - 👾 I know AndroidStudio + Kotlin.
 - 🐦 I know Flutter + Dart.
 - 🐦‍🔥 I know Xcode + SwiftUI.
 - 🧼 I'm a self taught UX/UI Designer.
-- 💼 I'm looking for a Job as a Mobile Developer.
+- 💼 I'm looking for a Job as a Software Developer.
 <br>
 
 <b> 🛠 Tech Stack </b>
